@@ -1,0 +1,36 @@
+html, body {
+    scroll-behavior: smooth;
+}
+
+.intro-text {
+    padding: 0 3rem;
+}
+
+.intro-buttons {
+    padding: 0 3rem;
+    margin-top: 1rem;
+}
+
+.partnership-works {
+    margin-top: 6rem;
+}
+
+.partner-list {
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    justify-content: space-around;
+}
+
+.partner-item {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-right: 1rem;
+    min-height: 120px;
+}
+
+.company-participation {
+    padding: 3rem 0;
+}
