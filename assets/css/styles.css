@@ -2,35 +2,25 @@ html, body {
     scroll-behavior: smooth;
 }
 
-.intro-text {
-    padding: 0 3rem;
+.custom-text-color {
+    color: #4c4b77;
 }
 
-.intro-buttons {
-    padding: 0 3rem;
-    margin-top: 1rem;
+.hero-text {
+    padding: 2rem 0 0 3rem;
 }
 
-.partnership-works {
-    margin-top: 6rem;
+.hero-text h1 {
+    line-height: 3.7rem;
 }
 
-.partner-list {
-    align-items: center;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    justify-content: space-around;
+.about-text {
+    padding: 0 2rem;
 }
 
-.partner-item {
-    align-items: center;
-    display: flex;
-    justify-content: center;
-    margin-right: 1rem;
-    min-height: 120px;
-}
-
-.company-participation {
-    padding: 3rem 0;
+.custom-box {
+    padding: 45px;
+    box-shadow: 0px 15px 60px 0px rgba(0,0,0,0.1);
+    background-color: #fff;
+    margin: 2rem 1rem;
 }
